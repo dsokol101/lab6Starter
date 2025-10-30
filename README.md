@@ -48,10 +48,12 @@ Write the `main` function and a helper function that demonstrates the class func
 ## 🖥️ Example Run
 Your program's output should be formatted clearly and match the calculated results for the Circle class methods.
 
-Circle c1 Initial Data: Radius: 1.0 Area: [Calculated Area] Circumference: [Calculated Circumference]
+Initial state:
 
-Circle c2 Initial Data: Radius: 5.0 Area: [Calculated Area] Circumference: [Calculated Circumference]
+Circle c1 - Radius: 1, Area: 3.14159, Circumference: 6.28319
 
---- Enlarging c2 by 2.5 ---
+Circle c2 - Radius: 5, Area: 78.5398, Circumference: 31.4159
 
-Circle c2 New Data: Radius: 7.5 Area: [Calculated New Area] Circumference: [Calculated New Circumference]
+After enlarging c2:
+
+Circle c2 - New Radius: 7.5, New Area: 176.715
