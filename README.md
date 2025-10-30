@@ -15,7 +15,7 @@ Declare the `Circle` class with a **private** data member for the radius and the
     * `Circle(double r)`: Parameterized constructor.
 * **Accessors (Getters):**
     * `double getRadius()`: Returns the circle's radius.
-    * `double getArea()`: Calculates and returns the area ($A = \pi r^2$).
+    * `double area()`: Calculates and returns the area ($A = \pi r^2$).
     * `double circumference()`: Calculates and returns the circumference ($C = 2 \pi r$).
 
 * **Mutator (Setter):**
